@@ -71,3 +71,10 @@ Nest is an MIT-licensed open source project. It can grow thanks to the sponsors 
 ## License
 
 Nest is [MIT licensed](LICENSE).
+
+##Lecture
+노마드 코더 'Nest Js로 API 만들기'[강의](https://github.com/nomadcoders/hi-nest)
+
+##Note
+[노션 필기](https://www.notion.so/Nest-js-ee61349c70c046c792f3a70ca1ab2966)
+
